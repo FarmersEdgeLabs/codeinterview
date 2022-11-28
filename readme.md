@@ -1,6 +1,6 @@
 Welcome to FarmersEdge code golf!
 
-This project contains a few challenges meant to test your proficiency with Python and SQL.
+This project contains a few challenges meant to test your proficiency with Python and as a developer.
 
 Each Python file contains its own problem, with instructions for the desired solution. You can use any resources
 available to you, save for modules; use only the standard library, except for when instructed otherwise.
