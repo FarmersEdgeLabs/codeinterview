@@ -1,4 +1,4 @@
-Welcome to FarmersEdge code golf!
+Welcome to the FarmersEdge code interview!
 
 This project contains a few challenges meant to test your proficiency with Python and as a developer.
 
