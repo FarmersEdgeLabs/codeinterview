@@ -1,4 +1,4 @@
-Welcome to the FarmersEdge code interview!
+Welcome to the FarmersEdge code exercise.
 
 This project contains a few challenges meant to test your proficiency with Python and as a developer.
 
@@ -8,6 +8,6 @@ available to you, save for modules; use only the standard library, except for wh
 Make your way through each file and solve each set of problems presented. Once you are done, zip up the entire project
 directory and email it to your interviewer.
 
-Completion is expected by end of business hours, same day of the personal interview section.
+Completion is expected by the time given by the interviewer. Late submissions will be considered, but with a penalty.
 
 Good luck!
